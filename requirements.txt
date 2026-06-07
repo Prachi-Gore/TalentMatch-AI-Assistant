@@ -1,0 +1,15 @@
+beautifulsoup4
+docx2txt
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-openai
+numpy
+pinecone
+python-dotenv
+pyyaml
+pypdf
+scikit-learn
+sentence-transformers
+streamlit
+
