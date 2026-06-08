@@ -15,7 +15,7 @@ TalentMatch is an AI-powered resume shortlisting and candidate matching system b
 - **Smart Reranking** - Cross-encoder improves ranking precision after retrieval
 - **Structured Output** - Pydantic-validated JSON for reliable API/UI integration
 - **Stateful Conversations** - Chat memory for follow-up questions without re-retrieval
-- **Dual Interfaces** - Streamlit dashboard + CLI for power users
+<!-- - **Dual Interfaces** - Streamlit dashboard + CLI for power users -->
 
 ## Tech Stack
 
@@ -25,7 +25,7 @@ TalentMatch is an AI-powered resume shortlisting and candidate matching system b
 - OpenAI
 - Pinecone
 - Sentence Transformers
-- Scikit-learn
+<!-- - Scikit-learn -->
 
 ## Project Structure
 
@@ -82,11 +82,11 @@ Open the local URL shown in the terminal, usually:
 http://localhost:8501
 ```
 
-## Run CLI Chat
+<!-- ## Run CLI Chat
 
 ```powershell
 python scripts/chat_cli.py
-```
+``` -->
 
 ## How It Works
 
