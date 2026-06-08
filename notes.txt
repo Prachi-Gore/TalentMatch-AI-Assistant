@@ -1,0 +1,21 @@
+hireflow
+  config.py
+  ingestion.py
+    load_resume_text
+    parse_resume_with_llm
+    build_resume_document
+    load_and_parse_resumes
+    encode_documents()
+    csr_row_to_pinecone_sparse
+    upsert_documents
+    ingest_resumes
+  retrieval.py
+    expand_query
+    hybrid_query
+    rerank_results
+  schemas.py
+  prompts.py
+prompt.yaml
+  chains.py
+
+

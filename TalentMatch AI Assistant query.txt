@@ -1,0 +1,13 @@
+skills 
+Python, Generative AI, Large Language Models (LLMs), RAG (Retrieval-Augmented Generation), LangChain, LangGraph, CrewAI, Agentic AI, Prompt Engineering, OpenAI API, Gemini API, Claude API, Vector Databases (Pinecone, Weaviate, Qdrant, Chroma), Semantic Search, Embeddings, Reranking, FastAPI, REST APIs
+
+Title
+Senior Generative AI Developer
+
+description
+We are looking for a Senior Generative AI Developer to design, develop, and deploy production-grade AI applications powered by Large Language Models (LLMs). The ideal candidate will have experience building RAG systems, AI agents, multi-agent workflows, prompt engineering solutions, and scalable AI services.
+
+qns for ai assistant
+Why is Candidate #1 ranked first?
+If you were the hiring manager, which candidate would you shortlist and why?
+Compare Candidate #1 and Candidate #2 and tell me who is a better fit for this role.
