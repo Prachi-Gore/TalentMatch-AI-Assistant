@@ -25,6 +25,7 @@ TalentMatch is an AI-powered resume shortlisting and candidate matching system b
 - OpenAI
 - Pinecone
 - Sentence Transformers
+- Numpy
 <!-- - Scikit-learn -->
 
 ## Project Structure
